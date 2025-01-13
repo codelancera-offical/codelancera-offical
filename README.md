@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm codelancera, who wants to be a CS scientist in the future. And this is my offical account on Github
 
-You can learn more about me at my blog site: <https://codelancera-offical.github.io/My-Blog/blog/>
+You can learn more about me at my blog site: <https://codelancera-offical.github.io/My-Blog>
 
 ## About Me
 
