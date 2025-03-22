@@ -1,7 +1,3 @@
-Here's the corrected version with typos fixed and additional icons for your skills:
-
----
-
 # Welcome!
 
 My name is **codelancera**, and this is my official account on GitHub.
