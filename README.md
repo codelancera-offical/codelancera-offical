@@ -1,7 +1,6 @@
 # Welcome!
 
 My name is **codelancera**, and this is my official account on GitHub.
-You can learn more about me at my blog: [My Blog](https://codelancera-offical.github.io/My-Blog)
 
 ## About Me
 
