@@ -20,10 +20,10 @@ But I believe there must be others like me in this world, and I will never give 
 If you satisfy **at least one** of the following conditions, please, please contact me—I really want to be friends with you, and I bet you will want to as well:
 
 - You can feel something that others cannot in **Math, Philosophy, or Music**.
-- You are curious about **Physics**, but also care about things **beyond physics** (*Metaphysics*).
-- You are also a **PKMer**.
-- You are deeply interested in **human consciousness**.  
-- You are not just satisfied with learning popular AI techniques—you want to build an AI with a **real soul**.  
+- You are curious about **Physics**, but also care about things **BEYOND Physics**.
+- You are also a **PKMER**.
+- You are deeply interested in **HUMAN CONSCIOUSNESS**.  
+- You are not just satisfied with learning popular AI techniques—you want to build an AI with a **REAL SOUL**.  
 
 ## Skills
 
