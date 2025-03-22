@@ -8,8 +8,7 @@ You can learn more about me at my blog: [My Blog](https://codelancera-offical.gi
 
 - Currently studying at **Wuhan University of Technology**.  
 - Major in **Artificial Intelligence**.  
-- Interested in **Math, Philosophy, Classical Music, Cognitive Science, and AGI**.  
-  *(If you understand why I don't write "Artificial Intelligence" here, please contact me—we are the same kind of people!)*  
+- Interested in **Math, Philosophy, Classical Music, Cognitive Science, and AGI**. 
 - Main research field: **Neuromorphic Computing and Spiking Neural Networks**.  
 - An experienced **PKMer (Personal Knowledge Manager)** using Obsidian.  
 - 📫 The best way to contact me: **lancera.thn@gmail.com**  
