@@ -34,7 +34,3 @@ If you satisfy **at least one** of the following conditions, please, please cont
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)  
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
----
-
-This should be a cleaner and more professional presentation. Let me know if you want any further improvements! 🚀
