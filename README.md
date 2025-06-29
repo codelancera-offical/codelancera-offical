@@ -9,7 +9,9 @@ My name is **codelancera**, and this is my official account on GitHub.
 - Interested in Math, Philosophy, Classical Music, Cognitive Science, and AGI. 
 - Main research field: Neuromorphic Computing and Spiking Neural Networks.  
 - An experienced PKMer (Personal Knowledge Manager) using Obsidian.  
-- 📫 The best way to contact me: **lancera.thn@gmail.com**  
+- 📫 The best way to contact me: **lancera.thn@gmail.com**
+
+More info on [my website](https://codelancera-offical.github.io/)! 
 
 ## Find Friends
 
@@ -24,12 +26,4 @@ If you satisfy **at least one** of the following conditions, please, please cont
 - You are deeply interested in **HUMAN CONSCIOUSNESS**.  
 - You are not just satisfied with learning popular AI techniques—you want to build an AI with a **REAL SOUL**.  
 
-## Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)  
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
