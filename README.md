@@ -1,6 +1,4 @@
-# Welcome!
-
-My name is HaoNan Tang, and this is my official account on GitHub.
+# HaoNan Tang
 
 ## About Me
 
