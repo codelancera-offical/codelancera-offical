@@ -1,7 +1,4 @@
 # HaoNan Tang
-
-## About Me
-
 - A senior in Wuhan University of Technology.  
 - Major in Artificial Intelligence.  
 - Main research fields: Application of Computer Vision in Sports, Accelerated computing, Neuromorphic Computing.
