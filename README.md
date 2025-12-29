@@ -5,9 +5,9 @@
 - Interested fields: Systems Theory, Philosophy of Mind, Cognitive Science.
 
 
-# CV fields Publications
+**CV fields Publications**
 - [TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking](https://arxiv.org/abs/2512.02789) Submitted to arXiv (2025)
 
-# Philosophy of Mind & Cognitive Science Publications
+**Philosophy of Mind & Cognitive Science Publications**
 * [The Necessary Structure of Awareness](https://philarchive.org/rec/TANTNS-3), **HaoNan Tang**. Published in **PhilArchive** (2025).
 
