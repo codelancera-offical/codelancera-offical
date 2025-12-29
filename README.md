@@ -6,8 +6,8 @@
 
 
 **CV fields Publications**
-- [TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking](https://arxiv.org/abs/2512.02789) Submitted to arXiv (2025)
+- [TrackNetV5: Residual-Driven Spatio-Temporal Refinement and Motion Direction Decoupling for Fast Object Tracking](https://arxiv.org/abs/2512.02789), ArXiv (2025)
 
 **Philosophy of Mind & Cognitive Science Publications**
-* [The Necessary Structure of Awareness](https://philarchive.org/rec/TANTNS-3), **HaoNan Tang**. Published in **PhilArchive** (2025).
+* [The Necessary Structure of Awareness](https://philarchive.org/rec/TANTNS-3),  PhilArchive (2025).
 
