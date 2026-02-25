@@ -1,7 +1,7 @@
 # HaoNan Tang
 - A senior in Wuhan University of Technology.  
 - Major in Artificial Intelligence.  
-- Main research fields: Application of Computer Vision in Sports, Embodied AI
+- Main research fields: Sports Biomechanics, Application of Computer Vision in Sports, Embodied AI
 - Interested fields: Systems Theory, Philosophy of Mind, Cognitive Science.
 
 
