@@ -9,3 +9,5 @@
 **Notes about Cognitive Science**
 * [The Necessary Structure of Awareness](https://philarchive.org/rec/TANTNS-3),  PhilArchive (2025).
 
+**Email**
+- thaonan@umich.edu
